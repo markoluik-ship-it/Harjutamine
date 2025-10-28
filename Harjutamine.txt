@@ -1,1 +1,13 @@
-GitHub on veebimajutusplatvorm versioonihalduseks ja ühistööks.
+GitHub on veebimajutusplatvorm versioonihalduseks ja ühistööks, ning loobvõimaluse töötada projektiga sõltumata asukohast.
+GitHubi on mõeldud nii tava kasutajatele kui ka kõiksuguste ettevõttetele. 
+
+Mina olen juba kasutanud GitHubi, laadides siia ülesse arvutimängu faile, mida soovin teistega jagada ja dokumenteerin omatehtud muudatused.
+
+GitHubi ajalugu:
+
+GitHub, Inc firma loodi 2007. aastal ja GitHubi teenus oli kättesaadav tavakasutajale 8. veebruar 2008. aastal. GitHubi loojad olid järgmised:
+
+- Tom Preston-Werner
+- Chris Wanstrath
+- P. J. Hyett
+- Scott Chacon
