@@ -1,2 +1,2 @@
 # Harjutamine
-Versioonihalduse harjutamisega GitHubis
+Versioonihalduse harjutus GitHubis
